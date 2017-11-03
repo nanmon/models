@@ -1,3 +1,6 @@
+# [Red Convolucional](http://github.com/nanmon/red-convolucional)
+Esta guía se puede encontrar en el [repo original](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_pets.md)
+
 # Quick Start: Distributed Training on the Oxford-IIIT Pets Dataset on Google Cloud
 
 This page is a walkthrough for training an object detector using the Tensorflow
